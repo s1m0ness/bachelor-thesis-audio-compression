@@ -1,0 +1,61 @@
+# LaTeX-related files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.dvi
+*.nav
+*.snm
+*.vrb
+
+# Backup and temporary files
+*~
+*.bak
+*.sav
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.dSYM/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directories
+/build/
+/bin/
+/lib/
+/Debug/
+/Release/
+/dist/
+/*.exe
+/*.log
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
